@@ -5,3 +5,4 @@ for(var i=0;i<a.length;i++)
     theory += a[i];
 }
 console.log(theory);
+console.log(theorySecretArr[1]);
